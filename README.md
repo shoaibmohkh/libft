@@ -38,14 +38,15 @@ Libft serves as a foundation for future projects within the 42 Network curriculu
 | Directory/File       | Description                        |
 |----------------------|------------------------------------|
 | `libft/`             | Root directory                     |
-| `├── inc/`           | Directory for header files         |
-| `│   └── libft.h`    | Header file containing function prototypes |
-| `├── src/`           | Source directory                   |
-| `│   ├── ft_is/`     | Functions for character checking   |
-| `│   ├── ft_lst/`    | Linked list handling functions     |
-| `│   ├── ft_mem/`    | Memory manipulation functions      |
-| `│   ├── ft_put/`    | Output functions                   |
-| `│   ├── ft_str/`    | String utility functions           |
-| `│   └── ft_to/`     | Conversion functions               |
-| `├── Makefile`       | Build script                       |
-| `└── README.md`      | Project documentation              |
+| `inc/`               | Directory for header files         |
+| `└── libft.h`        | Header file containing function prototypes |
+| `src/`               | Source directory                   |
+| `└── ft_is/`         | Functions for character checking   |
+| `└── ft_lst/`        | Linked list handling functions     |
+| `└── ft_mem/`        | Memory manipulation functions      |
+| `└── ft_put/`        | Output functions                   |
+| `└── ft_str/`        | String utility functions           |
+| `└── ft_to/`         | Conversion functions               |
+| `Makefile`           | Build script                       |
+| `README.md`          | Project documentation              |
+|----------------------|------------------------------------|
