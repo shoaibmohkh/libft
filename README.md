@@ -31,8 +31,6 @@ Libft serves as a foundation for future projects within the 42 Network curriculu
     ```bash
     make
 
-9. File Structure:
-
 ## File Structure:
 
 | Directory/File       | Description                        |
