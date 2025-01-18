@@ -20,13 +20,7 @@ Libft serves as a foundation for future projects within the 42 Network curriculu
    cd libft
 ## Usage
 
-1. Include the library in your project:
-
-    ```c
-    #include "libft.h"
-    ```
-
-2. Compile your code with the library:
+1. Compile your code with the library:
 
     ```bash
     make
