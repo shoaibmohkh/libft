@@ -49,4 +49,3 @@ Libft serves as a foundation for future projects within the 42 Network curriculu
 | `└── ft_to/`         | Conversion functions               |
 | `Makefile`           | Build script                       |
 | `README.md`          | Project documentation              |
-|----------------------|------------------------------------|
