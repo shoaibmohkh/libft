@@ -19,8 +19,7 @@ Libft serves as a foundation for future projects within the 42 Network curriculu
    git clone https://github.com/shoaibmohkh/libft.git
    cd libft
 ## Usage
-
-1. Compile your code with the library:
+Compile your code with the library:
 
     ```bash
     make
