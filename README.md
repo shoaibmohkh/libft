@@ -14,7 +14,7 @@ Libft serves as a foundation for future projects within the 42 Network curriculu
 - [File Structure](#File_Structure)
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/shoaibmohkh/libft.git
    cd libft
